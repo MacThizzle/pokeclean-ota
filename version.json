@@ -1,4 +1,5 @@
 {
-  "version": "2026.11.19.190857",
-  "url": "https://raw.githubusercontent.com/MacThizzle/pokeclean-ota/main/dist.zip"
+  "version": "2026.11.19.2108",
+  "url": "https://cdn.jsdelivr.net/gh/MacThizzle/pokeclean-ota@main/dist.zip",
+  "checksum": "9cc411c6100b0bbada36370d63481621ec97f516deb8eb2dde1c94c3e32c6cc2"
 }
