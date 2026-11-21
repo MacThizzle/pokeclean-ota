@@ -1,5 +1,5 @@
 {
-    "version":  "2026.11.20.1819",
-    "url":  "https://cdn.jsdelivr.net/gh/MacThizzle/pokeclean-ota@f53e006a84b4af27c721597fe2f8310db123ca33/dist.zip",
-    "checksum":  "e06ce2825ac839ae6ca24df9658cb51d8783b84faedee696bb32b50c4b31006c"
+  "version": "2026.11.21.0030",
+  "url": "https://cdn.jsdelivr.net/gh/MacThizzle/pokeclean-ota@c31ba6d9e465bd9cf1466c18a8145b4ef9a3dd55/dist.zip",
+  "checksum": "3860ffb1cae33811995e3ec417c41d23dfeb8e2eadb1319b610a4849e64edb5b"
 }
